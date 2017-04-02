@@ -84,7 +84,7 @@ p {
     display: block; width: 25px; margin: 0px;
     background: #2D6BF0;
     position: absolute; top: 0; bottom: 0;
-    right: 263px;
+    right: 91%;
     transition: all 0.3s ease-in 0s; 
 }
 .onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
@@ -132,7 +132,7 @@ p {
     display: block; width: 25px; margin: 0px;
     background: #000000;
     position: absolute; top: 0; bottom: 0;
-    right: 497px;
+    right: 95%;
     transition: all 0.3s ease-in 0s; 
 }
 .onoffswitch-checkbox1:checked + .onoffswitch-label1 .onoffswitch-inner1 {
